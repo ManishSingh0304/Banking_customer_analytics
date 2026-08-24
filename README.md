@@ -32,26 +32,23 @@ The dataset contains banking customer records with information related to:
 ## Tools & Technologies
 
 ### Programming & Analysis
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+* ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+* ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+* ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+* ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
+* ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?logo=python&logoColor=white)
 
 ### Database
-
-* MySQL / SQL Server
-* SQLAlchemy
+* ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) / ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+* ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FCA121?logo=python&logoColor=white)
 
 ### Data Visualization
-
-* Power BI
+* ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 ### Reporting & Presentation
+* ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
+* ![Gamma](https://img.shields.io/badge/Gamma%20AI-8A2BE2?logo=openai&logoColor=white)
 
-* Microsoft PowerPoint
-* Gamma
 
 ---
 
